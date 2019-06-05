@@ -1,0 +1,19 @@
+{
+  "name": "phaserbasicsetup",
+  "version": "1.0.0",
+  "description": "A phaser game template",
+  "main": "scripts/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SRJC",
+  "license": "MIT",
+  "devDependencies": {
+    "babelify": "^6.0.2",
+    "grunt": "^1.0.1",
+    "grunt-browserify": "^5.2.0",
+    "grunt-contrib-connect": "^1.0.2",
+    "grunt-contrib-watch": "^1.0.0",
+    "main-bower-files": "^2.13.1"
+  }
+}
